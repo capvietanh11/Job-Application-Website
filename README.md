@@ -9,4 +9,4 @@ Usage
 
 Simply download the zip file then open the index.html file in your browser to explore the design and functionality.
 
-
+I also upload raw file of the code so that you can check it immediately if you want.
