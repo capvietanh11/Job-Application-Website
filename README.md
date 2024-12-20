@@ -6,6 +6,7 @@ Responsive Design: Optimized for desktops, tablets, and mobile devices.
 Job Listings: Displays available job positions with descriptions.
 Application Form: Allows users to input personal details and apply for jobs.
 Usage
-Simply open the index.html file in your browser to explore the design and functionality.
 
-Feel free to customize and enhance the frontend for your needs!
+Simply download the zip file then open the index.html file in your browser to explore the design and functionality.
+
+
